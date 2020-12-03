@@ -1,0 +1,24 @@
+{
+  "name": "mattsches/aoc2020",
+  "description": "Advent Of Code 2020",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matthias Gutjahr",
+      "email": "mail@matthias-gutjahr.de"
+    }
+  ],
+  "require": {
+    "php": "^8",
+    "ext-mbstring": "*"
+  },
+  "require-dev": {
+    "ergebnis/composer-normalize": "^2.11",
+    "phpunit/phpunit": "^9.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "AOC2020\\": "src"
+    }
+  }
+}
