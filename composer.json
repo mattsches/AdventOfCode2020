@@ -18,7 +18,8 @@
   },
   "autoload": {
     "psr-4": {
-      "AOC2020\\": "src"
+      "AOC2020\\": "src",
+      "AOC2020\\Test\\": "tests"
     }
   }
 }

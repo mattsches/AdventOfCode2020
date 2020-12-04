@@ -1,10 +1,15 @@
 <?php
 /** @noinspection StaticInvocationViaThisInspection */
 
-namespace AOC2020;
+namespace AOC2020\Test;
 
+use AOC2020\Day2;
 use PHPUnit\Framework\TestCase;
 
+/**
+ * Class Day2Test
+ * @package AOC2020\Test
+ */
 class Day2Test extends TestCase
 {
 	/**
